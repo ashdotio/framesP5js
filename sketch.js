@@ -1,7 +1,7 @@
 let colors = ["#f9c80e", "#f86624", "#ea3546", "#662e9b", "#43bccd", "#fb62f6", "#645dd7","#F5D942"];
 
 function setup() {
-	createCanvas(800, 800);
+	createCanvas(900, 760);
 	noLoop();
 }
 
