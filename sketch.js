@@ -6,7 +6,7 @@ function setup() {
 }
 
 function draw() {
-	background(241);
+	background(255);
 	translate(width / 2, height / 2);
 	scale(0.9);
 	translate(-width / 2, -height / 2);
